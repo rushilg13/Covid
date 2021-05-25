@@ -1,0 +1,27 @@
+body{
+    
+    text-align: center;
+    vertical-align: middle;
+}
+
+.registerBtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 25%;
+    opacity: 0.9;
+    margin-top: 20%;
+    margin-right: 1%;
+  }
+  
+  .registerBtn:hover {
+    opacity:1;
+  }
+
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
